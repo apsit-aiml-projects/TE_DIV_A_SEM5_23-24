@@ -1,1 +1,2 @@
-# TE_DIV_A_SEM5_23-24
+# fashion-recommender-system
+A Deep Learning based Fashion Recommender System using the ResNET50
